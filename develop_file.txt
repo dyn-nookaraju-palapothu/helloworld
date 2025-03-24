@@ -1,1 +1,1 @@
-This a development file for a new feature
+This a development file for a new feature. Added new line
