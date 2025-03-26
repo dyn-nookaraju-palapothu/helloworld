@@ -1,0 +1,1 @@
+This is the syntax to develop the bargain feature for Amamzon.
